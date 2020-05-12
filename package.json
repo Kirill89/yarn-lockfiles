@@ -4,10 +4,10 @@
   "description": "A vulnerable demo application",
   "homepage": "https://snyk.io/",
   "dependencies": {
-    "qs": "0.0.6"
+    "qs": "1.0.0"
   },
   "devDependencies": {
-    "qs": "0.0.1",
+    "qs": "1.0.0",
     "qs": "0.0.2"
   }
 }
